@@ -13,6 +13,12 @@
         <li><a href="./scripts/page05.php">Условно изпълнение- switch</a></li>
         <li><a href="./scripts/page05-1.php">Условно изпълнение- switch без break</a></li>
         <li><a href="./scripts/page05-2.php">Условно изпълнение- switch 2</a></li>
+        <li><a href="./scripts/page06.php">Циклично изпълнение- while</a></li>
+        <li><a href="./scripts/page07.php">Индексни масиви</a></li>
+        <li><a href="./scripts/page08.php">foreach + $_SERVER</a></li>
+        <li><a href="./scripts/page09.php">Цикъл for</a></li>
+        <li><a href="./scripts/page10.php">Алтернативни форми на конструкциите</a></li>
+        <li><a href="./scripts/page11.php">include/require</a></li>
     </ul>
 </body>
 </html>

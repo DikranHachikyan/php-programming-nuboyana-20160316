@@ -1,0 +1,1 @@
+ <li><a href="./<?php echo $pages[$i];?>">Page <?php echo $pages[$i];?></a></li>
