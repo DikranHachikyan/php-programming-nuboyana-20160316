@@ -19,6 +19,9 @@
         <li><a href="./scripts/page09.php">Цикъл for</a></li>
         <li><a href="./scripts/page10.php">Алтернативни форми на конструкциите</a></li>
         <li><a href="./scripts/page11.php">include/require</a></li>
+        <li><a href="./scripts/page12.php">Функции на PHP- дата/час</a></li>
+        <li><a href="./scripts/page13.php">Функции на PHP- проверка на дати</a></li>
+        <li><a href="./scripts/page14.php">Функции на PHP- текст</a></li>
     </ul>
 </body>
 </html>
