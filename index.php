@@ -22,6 +22,12 @@
         <li><a href="./scripts/page12.php">Функции на PHP- дата/час</a></li>
         <li><a href="./scripts/page13.php">Функции на PHP- проверка на дати</a></li>
         <li><a href="./scripts/page14.php">Функции на PHP- текст</a></li>
+        <li><a href="./scripts/page15.php">Съдаване на собствени функции</a></li>
+        <li><a href="./scripts/page15_1.php">Собствени функции с параметри</a></li>
+        <li><a href="./scripts/page16.php">Собствени функции - глобални и локални променливи</a></li>
+        <li><a href="./scripts/page17.php">Собствени функции - статични локални променливи</a></li>
+        <li><a href="./scripts/page18.php">Собствени функции - return</a></li>
+        <li><a href="./scripts/page19.php">Собствени функции - return value</a></li>
     </ul>
 </body>
 </html>
